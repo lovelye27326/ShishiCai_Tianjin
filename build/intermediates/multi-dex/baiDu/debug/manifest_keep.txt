@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:203
+-keep class cn.bmob.push.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:192
+-keep class cn.bmob.push.lib.service.PushService { <init>(...); }
+
